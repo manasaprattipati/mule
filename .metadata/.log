@@ -1,0 +1,36 @@
+!SESSION 2020-06-07 20:30:45.410 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_251
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data E:\mule-apps
+
+!ENTRY org.mule.tooling.core 1 0 2020-06-07 20:31:34.030
+!MESSAGE Configuring M2_REPO variable with value: C:\Users\admin\.m2\repository
+
+!ENTRY org.mule.tooling.core 1 0 2020-06-07 20:31:34.099
+!MESSAGE Configuring M2_REPO variable with value: C:\Users\admin\.m2\repository
+
+!ENTRY org.eclipse.ui 4 4 2020-06-07 20:31:42.573
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.ContentOutline.
+
+!ENTRY org.eclipse.ui 4 4 2020-06-07 20:31:42.590
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.ContentOutline.
+
+!ENTRY org.mule.tooling.analytics 1 0 2020-06-07 20:32:24.100
+!MESSAGE Analytics enable property is set with true
+
+!ENTRY org.mule.tooling.analytics 1 0 2020-06-07 20:32:24.119
+!MESSAGE Analytics enable property is set with true
+
+!ENTRY org.mule.tooling.analytics 1 0 2020-06-07 20:33:50.098
+!MESSAGE Analytics enable property is set with true
+
+!ENTRY org.mule.tooling.analytics 1 0 2020-06-07 20:33:50.113
+!MESSAGE Analytics enable property is set with true
+
+!ENTRY org.mule.tooling.analytics 1 0 2020-06-07 20:37:24.765
+!MESSAGE Analytics enable property is set with true
+
+!ENTRY org.mule.tooling.analytics 1 0 2020-06-07 20:37:25.604
+!MESSAGE Analytics enable property is set with true
